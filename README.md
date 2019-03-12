@@ -32,6 +32,15 @@ following public domain documents in [Internet Archive](https://archive.org).
 6. Langdon, Stephan. [Langdon, Stephan. Babylonian Liturgies](https://archive.org/details/babylonianliturg00langrich). *Librairie orientaliste Paul Geuthner*. 1913.
 7. Genouillac, de Henri [Textes Économiques D'Oumma De L’époque D’Our](https://archive.org/details/textesconomiqu00genouoft). *Librairie orientaliste Paul Geuthner*. 1922.
 
+## Running paint app
+
+To run the paint app, run the following commands in order:
+```
+git clone https://github.com/cdli-gh/hccc.git
+cd hccc
+python paint.py
+```
+
 ## TODO
 
 * Increase the size of the datasets
