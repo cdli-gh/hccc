@@ -40,6 +40,8 @@ git clone https://github.com/cdli-gh/hccc.git
 cd hccc
 python paint.py
 ```
+[![Paint app](https://github.com/cdli-gh/hccc/blob/paint-app/paint.png)](https://github.com/cdli-gh/hccc/blob/paint-app/paint.png)
+
 
 ## TODO
 
